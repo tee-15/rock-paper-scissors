@@ -121,8 +121,10 @@ button.btn {
     padding-top: 1em;
     font-size: 17px;
     border-radius: 18px;
-    float: right;
-    margin-top: -6em;
+    margin-top: -10em;
+    margin-left: 65em;
+    position: relative;
+    top: -26em;
 }
 
 
