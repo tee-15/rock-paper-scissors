@@ -1,0 +1,133 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+   html,
+   body{
+     font-weight: 600,700;
+     font-size: 15px;
+     text-rendering: optimizeLegibility;
+     font-family: Barlow Semi Condensed;
+     background-image: radial-gradient(hsl(214,47%,23%),hsl(237, 49%, 15%));
+     background-color: hsl(237, 49%, 15%);
+    
+    
+     
+    
+    
+
+}
+a{
+    text-decoration: none;
+    
+}
+section.row-text {
+    display: flex;
+    margin-top: 5em;
+    background-color: transparent;
+    border: 2px solid hsl(229, 25%, 31%);
+    width: 40em;
+    margin-left: 32em;
+    height: 11em;
+    border-radius: 20px;
+}
+.rock {
+    margin-left: 2em;
+    margin-top: 2em;
+}
+.paper {
+    margin-left: 20em;
+    margin-top: 2em;
+    background-color: #fff;
+    width: 9em;
+    height: 7em;
+    border-radius: 12px;
+}
+.note{
+    margin-left: 2em;
+    color: hsl(229, 64%, 46%);
+    font-size: 22px;
+}
+h1.number {
+    font-size: 47px;
+    margin-left: 1em;
+    opacity: .5;
+}
+section.row-image {
+    margin-top: 10em;
+    margin-left: 40em;
+}
+.scissors {
+    background-color: #fff;
+    width: 10em;
+    height: 10em;
+    border: 19px solid hsl(39, 89%, 49%);
+    border-radius: 81px;
+    position: relative;
+    top: -26em;
+    left: 45em;
+}
+.spock {
+    background-color: #fff;
+    width: 10em;
+    height: 10em;
+    border: 19px solid hsl(189, 59%, 53%);
+    border-radius: 81px;
+    position: relative;
+    top: -27em;
+    left: 35em;
+}
+img.icon {
+    margin-left: 2em;
+    margin-top: 2em;
+}
+.papper {
+    top: -37em;
+    background-color: #fff;
+    width: 10em;
+    height: 10em;
+    border: 19px solid hsl(230, 89%, 62%);
+    border-radius: 81px;
+    position: relative;
+    left: 56em;
+}
+.lizard {
+    background-color: #fff;
+    width: 10em;
+    height: 10em;
+    border: 19px solid hsl(261, 73%, 60%);
+    border-radius: 81px;
+    position: relative;
+    top: -35em;
+    left: 40em;
+}
+.rocks {
+    background-color: #fff;
+    width: 10em;
+    height: 10em;
+    border: 19px solid hsl(349, 71%, 52%);
+    border-radius: 81px;
+    position: relative;
+    top: -45em;
+    left: 53em;
+}
+button.btn {
+    background-color: transparent;
+    color: #fff;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    font-size: 17px;
+    border-radius: 18px;
+    float: right;
+    margin-top: -6em;
+}
+
+
+
+
+
+
+
